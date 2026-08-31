@@ -31,7 +31,7 @@ This project analyzes responses from data professionals to identify insights rel
 
 # Dashboard
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+https://github.com/Snehal-KolsePatil/Power-BI-Data-Professional-Survey/blob/main/dashboard.png
 
 # Key Analysis
 
