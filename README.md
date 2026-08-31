@@ -1,6 +1,3 @@
-# Power-BI-Data-Professional-Survey
-Interactive Power BI dashboard analyzing a survey of data professionals.
-
 # Data Professional Survey Analysis – Power BI
 
 An interactive **Power BI dashboard** created to analyze survey data from data professionals and understand trends related to roles, salaries, programming languages, job satisfaction, career switching, and demographics.
